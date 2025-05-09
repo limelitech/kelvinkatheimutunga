@@ -1,6 +1,6 @@
-# kelvinkatheimutunga
+# kevinkatheimutunga
 
-# 👋 Hi, I'm Kelvin Kathei Mutunga
+# 👋 Hi, I'm Kevin Kathei Mutunga
 
 💻 Software Engineer | 🌐 Full Stack Web Developer | 🔐 Cybersecurity Enthusiast  
 📍 Based in San Francisco, CA | 🌍 Experience in Kenya & the U.S.
@@ -15,7 +15,7 @@ I build secure, scalable, and high-performance web applications. With over 4 yea
 🚀 Currently working at TechNova Solutions, leading projects that optimize data analytics and system security.
 
 ### 📫 Let's connect!
-**Kelvin Kathei Mutunga**  
+**Kevin Kathei Mutunga**  
 📩 kelvinkatheim@gmail.com
 📞 +254 704 815 319
   
