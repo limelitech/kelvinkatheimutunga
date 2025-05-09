@@ -15,5 +15,8 @@ I build secure, scalable, and high-performance web applications. With over 4 yea
 🚀 Currently working at TechNova Solutions, leading projects that optimize data analytics and system security.
 
 ### 📫 Let's connect!
-- Email: kelvinkatheim@gmail.com
-- LinkedIn: [linkedin.com/in/kelvin-kathei-mutunga-a74b552bb](https://linkedin.com/in/kelvin-kathei-mutunga-a74b552bb)
+**Kelvin Kathei Mutunga**  
+📩 kelvinkatheim@gmail.com
+📞 +254 704 815 319
+  
+🔗 [LinkedIn](https://linkedin.com/in/kelvin-kathei-mutunga-a74b552bb)
